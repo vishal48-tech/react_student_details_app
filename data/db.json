@@ -1,0 +1,24 @@
+{
+  "details": [
+    {
+      "id": "1",
+      "name": "Shesh",
+      "age": "26"
+    },
+    {
+      "id": "2",
+      "name": "Harsh",
+      "age": "35"
+    },
+    {
+      "id": "3",
+      "name": "Vishal",
+      "age": "29"
+    },
+    {
+      "id": "4",
+      "name": "Rutvik",
+      "age": "35"
+    }
+  ]
+}
